@@ -52,7 +52,6 @@ ai-faps-ekaansh-khosla/
 |    ├── dreambooth_txt2img/                          # all files of Dreambooth technique
 |    │   ├── calculating_FID_values/                  # all files of calculating FID files
 |    |   |   ├── calculate FID.ipynb                  # calculating FID Code
-|    |   |   ├── fid_values_Dreambooth_txt2img.csv    # Results of FID
 |    |   |   └── get_random500_images.ipynb           # filtering images to get one type of defect
 |    │   ├── data_transformation_files/               # all files for data transformation for Dreambooth
 |    |   |   ├── get_required_images.ipynb            # code for seperating images of each defect
@@ -67,7 +66,6 @@ ai-faps-ekaansh-khosla/
 |    └── stable_diffusion_img2img/                    # all files of stable_diffusion_img2img technique
 |        ├── calculating_FID_values/                  # all files of calculating FID files
 |        |   ├── calculate FID.ipynb                  # calculating FID Code
-|        |   ├── fid_values_SD_img2img.csv            # Results of FID
 |        |   └── get_random500_images.ipynb           # filtering images to get one type of defect
 |        ├── models/                                  # Results-model enhanced by stable_diffusion_img2img  
 |        |   ├── DINOv2/                              # DinoV2_L results
